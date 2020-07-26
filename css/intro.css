@@ -1,0 +1,25 @@
+header {
+  box-sizing: border-box;
+  border: 1px dashed coral;
+  width: 100vw;
+  min-height: 100vh;
+  padding: 30vw 0 5vw;
+  position: relative;
+  transform-style: inherit;
+  background-color: crimson;
+  background-image: url("../img/4.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.intro-container h3 {
+  margin-top: -100px;
+} 
+/* .intro-container, .intro-container:before{
+
+} */
+
+.content {
+  margin-top: 400px;
+  margin-left: 50px;
+}

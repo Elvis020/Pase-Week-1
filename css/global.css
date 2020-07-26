@@ -1,0 +1,17 @@
+@import "./variables.css";
+@import "./nav.css";
+@import "./intro.css";
+@import "./top_stories.css";
+@import "./other_stories.css";
+@import "./contact_us.css";
+@import "./footer.css";
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,23 @@
+.nav-container {
+  background-color: limegreen;
+  color: whitesmoke;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  text-transform: uppercase;
+  /* z-index: 3; */
+  border: 1px dashed coral;
+}
+
+.content-2 {
+  margin-right: 100px;
+  list-style: none;
+  display: flex;
+  border: 1px dashed coral;
+}
+
+.content-2 li {
+  margin: 15px;
+  margin-left: 20px;
+}

@@ -15,3 +15,6 @@ html,
 body {
   font-family: Source Sans Pro;
 }
+p {
+  line-height: 1.5;
+}

@@ -3,19 +3,16 @@
   justify-content: center;
   align-content: center;
   background-color: grey;
+  height: 40px;
 }
 
 .footer-container ul {
-  height: 20px;
   list-style: none;
 }
 .footer-1 {
   display: flex;
   align-items: center;
   justify-items: center;
-  /* margin: 0 300px; */
-  /* padding-left: 20px;
-  padding-right: 20px; */
 }
 
 .footer-2a img {
@@ -32,4 +29,15 @@
 #footer-2b,
 #footer-2c {
   margin: 5px;
+}
+
+@media screen and (max-width: 943px) {
+  .footer-container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: grey;
+    height: 40px;
+    width: 950px;
+  }
 }

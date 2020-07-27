@@ -1,6 +1,5 @@
 .s2 {
   padding-top: 10px;
-
 }
 #contact-form {
   display: block;
@@ -38,4 +37,18 @@
   color: #fff;
   background-color: #4b5156;
   border: none;
+  cursor: pointer;
+}
+
+@media screen and (max-width:943px) {
+  #contact-form {
+    display: block;
+    max-width: 500px;
+    margin: 0 auto;
+    border: 1px solid #c1c1c1;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #c1c1c1;
+    margin-bottom: 30px;
+  } 
 }

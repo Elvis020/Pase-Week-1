@@ -1,24 +1,23 @@
-/* .top-stories {
+.top-stories {
   width: 80vw;
   height: 500px;
-  border: 1px dashed blue;
   display: flex;
   padding: 30px;
   justify-content: center;
   align-content: center;
-} */
+}
 
 .top-stories-1 {
-  border: 1px dashed blue;
   display: flex;
   justify-content: center;
   margin: 40px;
+  line-height: 1.7;
 }
 .top-stories-2 {
-  border: 1px dashed blue;
   display: flex;
   justify-content: center;
   margin: 40px;
+  line-height: 1.7;
 }
 
 .image-container {
@@ -49,7 +48,7 @@
 }
 .link-align-2 {
   display: flex;
-  justify-content: flex-start;
+  justify-content: flex-end;
   padding-top: 10px;
 }
 .link-align-2 a {
@@ -63,11 +62,17 @@
   padding: 30px;
   margin-top: 50px;
 }
+.title {
+  font-style: oblique;
+  text-align: center;
+  display: block;
+  font-size: 200%;
+}
 
 .top-stories-heading {
+  font-family: Merriweather;
+  letter-spacing: 3.5px;
   text-align: center;
   padding-top: 20px;
   text-transform: uppercase;
-  text-decoration: underline;
-  border: 1px dashed blue;
 }

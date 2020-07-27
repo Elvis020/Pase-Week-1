@@ -1,25 +1,29 @@
 .footer-container {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   align-content: center;
-  background-color: palegreen;
+  background-color: grey;
 }
 
 .footer-container ul {
+  height: 20px;
   list-style: none;
 }
 .footer-1 {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   justify-items: center;
-  margin: 0 300px;
-  border: 1px solid red;
-  padding-left: 20px;
-  padding-right: 20px;
+  /* margin: 0 300px; */
+  /* padding-left: 20px;
+  padding-right: 20px; */
+}
+
+.footer-2a img {
+  width: 10px;
+  height: 10px;
 }
 
 .footer-2 {
-  border: 1px solid orange;
   display: flex;
   padding: 10px;
   align-items: center;

@@ -1,5 +1,9 @@
+.content-1 {
+  cursor: pointer;
+}
+
 .nav-container {
-  background-color: limegreen;
+  background-color: grey;
   color: whitesmoke;
   display: flex;
   justify-content: space-between;
@@ -7,14 +11,24 @@
   padding: 10px;
   text-transform: uppercase;
   /* z-index: 3; */
-  border: 1px dashed coral;
+  /* border: 1px dashed coral; */
 }
 
 .content-2 {
   margin-right: 100px;
   list-style: none;
   display: flex;
-  border: 1px dashed coral;
+  color: blue;
+}
+
+.content-2 a {
+  text-decoration: none;
+}
+.content-2a a:hover,
+.content-2b a:hover,
+.content-2c a:hover {
+  color: #fff;
+  cursor: pointer;
 }
 
 .content-2 li {

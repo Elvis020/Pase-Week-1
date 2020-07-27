@@ -1,6 +1,6 @@
 .s2 {
-    padding-top: 10px;
-  border: 1px dashed green;
+  padding-top: 10px;
+
 }
 #contact-form {
   display: block;
@@ -9,7 +9,7 @@
   border: 1px solid #c1c1c1;
   padding: 15px;
   border-radius: 5px;
-  background-color: #eaeaea;
+  background-color: #c1c1c1;
   margin-bottom: 30px;
 }
 

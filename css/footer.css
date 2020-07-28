@@ -4,6 +4,7 @@
   align-content: center;
   background-color: grey;
   height: 40px;
+  width: 100vw;
 }
 
 .footer-container ul {

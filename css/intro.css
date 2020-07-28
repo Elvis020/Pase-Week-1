@@ -2,10 +2,11 @@
   width: 100%;
   height: 100vh;
   background-image: linear-gradient(
-      to bottom,
+      to right bottom,
       rgba(245, 246, 252, 0.52),
       rgba(109, 37, 91, 0.73)
-    ),url("../img/4.jpg");
+    ),
+    url("../img/4.jpg");
   background-size: cover;
   background-position: center;
   font-size: 30px;
@@ -14,6 +15,7 @@
 }
 
 .content {
+  color: #353535;
   padding-top: 350px;
   padding-left: 100px;
 }
@@ -26,7 +28,8 @@
         to bottom,
         rgba(245, 246, 252, 0.52),
         rgba(109, 37, 91, 0.73)
-      ),url("../img/4.jpg");
+      ),
+      url("../img/4.jpg");
     background-size: cover;
     background-position: center;
     font-size: 30px;

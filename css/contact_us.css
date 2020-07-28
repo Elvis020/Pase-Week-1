@@ -5,8 +5,7 @@
   display: block;
   max-width: 600px;
   margin: 0 auto;
-  color: rgb(219, 217, 217);
-  /* border: 1px solid #808080; */
+  color: #c1c1c1;
   padding: 15px;
   border-radius: 5px;
   background-color: #808080;
@@ -28,11 +27,14 @@
   background-color: #4b5156;
   border-radius: 5px;
   border: 1px solid #808080;
-  /* font-size: 14px; */
+  font-size: 14px;
 }
-
+.input-field:focus,
+.input-field:focus,
 .input-field:focus {
   box-shadow: -5px 8px 17px 2px black;
+  background-color: inherit;
+  color: rgb(27, 25, 25);
   outline: none;
 }
 

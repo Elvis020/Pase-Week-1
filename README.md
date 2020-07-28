@@ -1,3 +1,17 @@
 # Pase-Week-1
 
-## Welcome to my blog assignment. To view my blog-assignment, please run live server
+# Blog Assignment for Week 1
+
+One Paragraph of project description goes here
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```

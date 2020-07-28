@@ -1,4 +1,3 @@
-# Pase-Week-1
 
 # Blog Assignment for Week 1
 

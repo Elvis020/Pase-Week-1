@@ -1,7 +1,7 @@
 .section-other-stories {
   width: 100vw;
   height: auto;
-  background-color: grey;
+  background-color: #808080;
 }
 .box-container {
   display: grid;
@@ -12,7 +12,7 @@
 }
 
 .image-container-3 {
-  height: 70%;
+  height: 60%;
   width: 100%;
   object-fit: cover;
   object-position: center;
@@ -20,7 +20,7 @@
 }
 
 .box {
-  background-color: wheat;
+  background-color: #ead5d3;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -30,7 +30,6 @@
   border-radius: 50px;
   padding-bottom: 5px;
 }
-
 
 .box a {
   text-decoration: none;
@@ -62,12 +61,12 @@
 
 @media screen and (max-width: 943px) {
   .section-other-stories {
-    width: 950px ;
+    width: 950px;
     height: auto;
     background-color: grey;
   }
   .box {
-    background-color: wheat;
+    background-color: #b48e8a;
     display: flex;
     flex-direction: column;
     align-items: center;

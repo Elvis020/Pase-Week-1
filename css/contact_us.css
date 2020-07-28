@@ -5,10 +5,11 @@
   display: block;
   max-width: 600px;
   margin: 0 auto;
-  border: 1px solid #c1c1c1;
+  color: rgb(219, 217, 217);
+  /* border: 1px solid #808080; */
   padding: 15px;
   border-radius: 5px;
-  background-color: #c1c1c1;
+  background-color: #808080;
   margin-bottom: 30px;
 }
 
@@ -26,8 +27,12 @@
   padding-bottom: 10px;
   background-color: #4b5156;
   border-radius: 5px;
-  border: 1px solid #c1c1c1;
-  font-size: 14px;
+  border: 1px solid #808080;
+  /* font-size: 14px; */
+}
+
+input:focus {
+  box-shadow: -5px 8px 17px 2px black;
 }
 
 #submit-btn {
@@ -40,15 +45,15 @@
   cursor: pointer;
 }
 
-@media screen and (max-width:943px) {
+@media screen and (max-width: 943px) {
   #contact-form {
     display: block;
     max-width: 500px;
     margin: 0 auto;
-    border: 1px solid #c1c1c1;
+    /* border: 1px solid #808080; */
     padding: 15px;
     border-radius: 5px;
-    background-color: #c1c1c1;
+    /* background-color: #c1c1c1; */
     margin-bottom: 30px;
-  } 
+  }
 }

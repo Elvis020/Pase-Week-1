@@ -31,8 +31,9 @@
   /* font-size: 14px; */
 }
 
-input:focus {
+.input-field:focus {
   box-shadow: -5px 8px 17px 2px black;
+  outline: none;
 }
 
 #submit-btn {

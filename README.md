@@ -2,16 +2,16 @@
 
 # Blog Assignment for Week 1
 
-One Paragraph of project description goes here
+This is a project using only html and css elements and concepts like flexbox,grid etc to create a simple blog
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To get started, first clone or download the repo.If you are using Vs Code, use the live server extension to run the project.Else, ;) make sure your editor has a server installed to run the program. 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+VS Code extension: Live Server
 
 ```
-Give examples
+Shortcut: Alt+L,O 
 ```

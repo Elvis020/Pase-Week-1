@@ -6,7 +6,7 @@ This is a project using only html and css elements and concepts like flexbox,gri
 
 ## Getting Started
 
-To get started, first clone or download the repo.If you are using Vs Code, use the live server extension to run the project.Else, ;) make sure your editor has a server installed to run the program. 
+To get started, first clone or download the repo.If you are using VS Code, use the live server extension to run the project.Else, ;) make sure your editor has a server installed to run the program. 
 
 ### Prerequisites
 
